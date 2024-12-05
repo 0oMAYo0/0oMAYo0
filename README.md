@@ -2,7 +2,7 @@
 
 🎓 Master's in Engineering Science at National Cheng Kung University
 
-🔭 I’m currently working on Wistron[https://www.wistron.com/ch]
+🔭 I’m currently working on [Wistron](https://www.wistron.com/ch)
 
 💡 Passionate about Web Development, AI
 
