@@ -1,9 +1,13 @@
-## Hi there 👋
+## Hi there, I'm May! 👋
 
-🎓 Master's in Engineering Science at National Cheng Kung University  
+🎓 Master's in Engineering Science at National Cheng Kung University
+
 🔭 I’m currently working on Wistron[https://www.wistron.com/ch]
+
 💡 Passionate about Web Development, AI
+
 🚀 Actively building Backend Systems, AI Applications
+
 📫 How to reach me: may12343@hotmail.com
 
 <!--
